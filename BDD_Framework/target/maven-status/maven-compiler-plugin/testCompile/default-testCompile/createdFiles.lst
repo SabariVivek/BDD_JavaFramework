@@ -1,0 +1,9 @@
+com\bdd\utilities\ConfigLoader.class
+com\bdd\runnerclass\RunnerClass.class
+com\bdd\pageobjects\LoginPage.class
+com\bdd\components\GenericMethods.class
+com\bdd\stepdefinitions\LoginSteps.class
+com\bdd\utilities\PropertyLoader.class
+com\bdd\components\reporting\ExtentManager.class
+com\bdd\components\TestBase.class
+com\bdd\components\Utils.class
